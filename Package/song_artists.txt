@@ -1,0 +1,17 @@
+1 @ ['Queen']
+2 @ ['Nirvana']
+3 @ ['Queen']
+4 @ "['Rage Against The Machine', 'Nirvana']"
+5 @ "['Queen', 'Nirvana']"
+7dD5DEzjhofoItSG7QwVoY @ ['Frank Sinatra']
+5TnAnWRXDM6awfvAveK91N @ "['Vanessa Bell Armstrong, Patti Austin, Bernie K.’]"
+5tNhreO6L8kfvQSqPjuGUg @ "[""Jane's Addiction""]".
+4Cna7QxOOTNnylVHLtShCi @ "['Rosemary Clooney']
+2Sy1r4fGfq4Lslfc0gHkbk @ "['La Sonora Matancera', 'Carlos Argentino']"
+3uXp4hZmCnEmVjffupKCiT @ ['Supertramp']
+1SlMYQmLe0yNEvBIfaPTAW @ ['Rammstein']
+1KLyMQwUeIPJaXn7wgdeNW @ ['Rammstein']
+1l4CEjapdCSUsazfBMjR4l @ ['Joseph Hellmesberger, Jr.', 'Chris Thielemann']"
+6r8k1vznHrzlEKYxL4dZEe @ ['Madonna']
+1fEepJX6lz8fqhDRsNxkQp @ "['Antônio Carlos Jobim', 'Vinícius de Moraes']"
+6r8k1vzdsfzlEKYxL4dZEe @ ['Madonna']
